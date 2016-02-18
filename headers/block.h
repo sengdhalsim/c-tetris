@@ -3,7 +3,7 @@
 
 class Block {
   private:
-    int x, y;
+    int _x, _y;
   public:
     Block ();
     int GetX ();
